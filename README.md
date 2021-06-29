@@ -1,4 +1,4 @@
-# lstm_historical_temp_prediction
+# lstm_historical_temp_prediction Coursera_project_work
 
 ![image](https://user-images.githubusercontent.com/70902291/123842688-b0a10e00-d92e-11eb-8e44-62d01fa08a78.png)
 
